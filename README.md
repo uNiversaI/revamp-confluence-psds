@@ -4,7 +4,7 @@ The PSD Sources with vectors and improvements/fixes for the revamp theme are pro
 
 ### Licensing
 
-These PSD sources are GPLv2, compatible with XBMC licence
+These PSD sources are GPLv2, compatible with Kodi licence
 
 ### Derivative works
 
